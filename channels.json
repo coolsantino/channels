@@ -15022,7 +15022,7 @@
 	},
 	{
 		"_id": 1973,
-		"aliases": "|bcuromantic|",
+		"aliases": "|bcuromantic|bcuромантикаhd|",
 		"basealias": "bcuromantichd",
 		"country": "ru",
 		"logo_url": "/logos/bcu-romantic-hd.png",
@@ -92752,5 +92752,23 @@
 		"logo_url": "/logos/ictv-2.png",
 		"name": "ICTV 2",
 		"group": "common"
+	},
+	{
+		"_id": 100808,
+		"aliases": "",
+		"basealias": "bcupremiereultra4k",
+		"country": "ru",
+		"logo_url": "/logos/bcu-premiere-4k.png",
+		"name": "BCU Premiere Ultra 4K",
+		"group": "films"
+	},
+	{
+		"_id": 100809,
+		"aliases": "",
+		"basealias": "bcukids4k",
+		"country": "ru",
+		"logo_url": "/logos/bcu-kids-4k.png",
+		"name": "BCU Kids 4K",
+		"group": "films"
 	}
 ]
