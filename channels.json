@@ -181,11 +181,11 @@
 	},
 	{
 		"_id": 22,
-		"aliases": "|tv1000worldkinohd|tv1000worldkinotv1000русскоекиноint|",
-		"basealias": "tv1000worldkino",
+		"aliases": "|tv1000worldkinohd|tv1000worldkinotv1000русскоекиноint|tv1000worldkino|",
+		"basealias": "tv1000globalkino",
 		"country": "ru",
 		"logo_url": "/logos/tv1000-world-kino.png",
-		"name": "TV1000 World Kino",
+		"name": "TV1000 Global Kino",
 		"group": "films"
 	},
 	{
@@ -1522,29 +1522,29 @@
 	},
 	{
 		"_id": 173,
-		"aliases": "|tv1000comedy|tv1000comedyhd|vipcomedyhd|comedytv1000hd|viasatcomedyhd|тв1000comedy|tv1000комедия|тв1000комедия|tv1000comedysd|",
-		"basealias": "vipcomedy",
+		"aliases": "|vijucomedy|vijucomedyhd|vipcomedyhd|vipcomedy|tv1000comedy|tv1000comedyhd|",
+		"basealias": "vijucomedy",
 		"country": "ru",
 		"logo_url": "/logos/vip-comedy.png",
-		"name": "ViP Comedy",
+		"name": "Viju+ Comedy",
 		"group": "films"
 	},
 	{
 		"_id": 174,
-		"aliases": "|tv1000megahit|tv1000megahithd|vipmegahithd|megahittv1000hd|viasatmegahithd|тв1000megahit|tv1000мегахит|тв1000мегахит|мегахит|tv1000megahitsd|",
-		"basealias": "vipmegahit",
+		"aliases": "|vijumegahithd|vipmegahithd|vipmegahit|tv1000megahit|tv1000megahithd|",
+		"basealias": "vijumegahit",
 		"country": "ru",
 		"logo_url": "/logos/vip-megahit.png",
-		"name": "ViP Megahit",
+		"name": "Viju+ Megahit",
 		"group": "films"
 	},
 	{
 		"_id": 175,
-		"aliases": "|vippremiereукраинаhd|vippremiereua|vippremierehdукраина|vippremierehdua|vippremiere|vippremierehd|",
-		"basealias": "vippremiereукраина",
+		"aliases": "|vijupremierehd|vippremiere|vippremierehd|vippremium|vippremiumhd|",
+		"basealias": "vijupremiere",
 		"country": "ru",
 		"logo_url": "/logos/vip-premiere.png",
-		"name": "ViP Premiere",
+		"name": "Viju+ Premiere",
 		"group": "films"
 	},
 	{
@@ -83170,11 +83170,11 @@
 	},
 	{
 		"_id": 55135,
-		"aliases": "|vipserialhd|",
-		"basealias": "vipserial",
+		"aliases": "|vijuserialhd|vipserial|vipserialhd|",
+		"basealias": "vijuserial",
 		"country": "ru",
 		"logo_url": "/logos/vip-serial.png",
-		"name": "ViP Serial",
+		"name": "Viju+ Serial",
 		"group": "films"
 	},
 	{
@@ -87814,19 +87814,19 @@
 	},
 	{
 		"_id": 100126,
-		"aliases": "",
+		"aliases": "|viasatkinocomedy|viasatkinocomedyhd|vipcomedyceehd|",
 		"basealias": "vipcomedycee",
 		"country": "ru",
-		"logo_url": "/logos/vip-comedy.png",
+		"logo_url": "/logos/vip-comedy-cee.png",
 		"name": "ViP Comedy CEE",
 		"group": "films"
 	},
 	{
 		"_id": 100127,
-		"aliases": "",
+		"aliases": "|viasatkinomegahit|viasatkinomegahithd|vipmegahitceehd|",
 		"basealias": "vipmegahitcee",
 		"country": "ru",
-		"logo_url": "/logos/vip-megahit.png",
+		"logo_url": "/logos/vip-megahit-cee.png",
 		"name": "ViP Megahit CEE",
 		"group": "films"
 	},
