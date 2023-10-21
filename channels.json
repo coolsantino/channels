@@ -1504,20 +1504,20 @@
 	},
 	{
 		"_id": 171,
-		"aliases": "|viasattv1000|",
-		"basealias": "tv1000",
+		"aliases": "|viasattv1000|tv1000|",
+		"basealias": "vijutv1000",
 		"country": "ru",
 		"logo_url": "/logos/tv1000.png",
-		"name": "TV1000",
+		"name": "Viju TV1000",
 		"group": "films"
 	},
 	{
 		"_id": 172,
-		"aliases": "|tv1000actionhd|тв1000action|",
-		"basealias": "tv1000action",
+		"aliases": "|tv1000actionhd|тв1000action|tv1000action|",
+		"basealias": "vijutv1000action",
 		"country": "ru",
 		"logo_url": "/logos/tv1000-action.png",
-		"name": "TV1000 Action",
+		"name": "Viju TV1000 Action",
 		"group": "films"
 	},
 	{
@@ -3781,11 +3781,11 @@
 	},
 	{
 		"_id": 429,
-		"aliases": "|tv1000rukino|tv1000russkoekino|тв1000русскоекино|tv1000русскоекиноhd|tb1000русскоекино|tв1000русскоекино|русскоекиноtv1000|",
-		"basealias": "tv1000русскоекино",
+		"aliases": "|tv1000rukino|tv1000russkoekino|тв1000русскоекино|tv1000русскоекиноhd|tb1000русскоекино|tв1000русскоекино|русскоекиноtv1000|tv1000русскоекино|",
+		"basealias": "vijutv1000русское",
 		"country": "ru",
 		"logo_url": "/logos/tv1000-russkoe.png",
-		"name": "TV1000 Русское кино",
+		"name": "Viju TV1000 Русское",
 		"group": "films"
 	},
 	{
