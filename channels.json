@@ -4621,7 +4621,7 @@
 		"aliases": "|312kidshd|312детям|312tvkids|",
 		"basealias": "312kids",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/bqj5i29s5j7h024/312kids.jpg",
+		"logo_url": "/logos/312-kids.png",
 		"name": "312 KIDS",
 		"group": "kids"
 	},
@@ -4630,7 +4630,7 @@
 		"aliases": "|312music|312musichd|312музыкаhd|312tvmusic|",
 		"basealias": "312музыка",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/mni2dpbenrq9nje/312music.jpg",
+		"logo_url": "/logos/312-music.png",
 		"name": "312 МУЗЫКА",
 		"group": "music"
 	},
