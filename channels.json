@@ -1738,11 +1738,11 @@
 	},
 	{
 		"_id": 198,
-		"aliases": "|viasatnaturehistory|viasatnature+history|viasatnature+historyhd|",
+		"aliases": "|viasatnaturehistory|viasatnature+history|viasatnature+historyhd|viasatnaturehistoryhd|",
 		"basealias": "viasatnaturehistoryhd",
 		"country": "ru",
 		"logo_url": "/logos/viasat-nature-hd-history-hd.png",
-		"name": "Viasat Nature/History HD",
+		"name": "viju+ Planet",
 		"group": "knowledge"
 	},
 	{
