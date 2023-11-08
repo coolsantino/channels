@@ -1508,7 +1508,7 @@
 		"basealias": "vijutv1000",
 		"country": "ru",
 		"logo_url": "/logos/tv1000.png",
-		"name": "Viju TV1000",
+		"name": "viju TV1000",
 		"group": "films"
 	},
 	{
@@ -1517,7 +1517,7 @@
 		"basealias": "vijutv1000action",
 		"country": "ru",
 		"logo_url": "/logos/tv1000-action.png",
-		"name": "Viju TV1000 Action",
+		"name": "viju TV1000 Action",
 		"group": "films"
 	},
 	{
@@ -1526,7 +1526,7 @@
 		"basealias": "vijucomedy",
 		"country": "ru",
 		"logo_url": "/logos/vip-comedy.png",
-		"name": "Viju+ Comedy",
+		"name": "viju+ Comedy",
 		"group": "films"
 	},
 	{
@@ -1535,7 +1535,7 @@
 		"basealias": "vijumegahit",
 		"country": "ru",
 		"logo_url": "/logos/vip-megahit.png",
-		"name": "Viju+ Megahit",
+		"name": "viju+ Megahit",
 		"group": "films"
 	},
 	{
@@ -1544,7 +1544,7 @@
 		"basealias": "vijupremiere",
 		"country": "ru",
 		"logo_url": "/logos/vip-premiere.png",
-		"name": "Viju+ Premiere",
+		"name": "viju+ Premiere",
 		"group": "films"
 	},
 	{
@@ -3785,7 +3785,7 @@
 		"basealias": "vijutv1000русское",
 		"country": "ru",
 		"logo_url": "/logos/tv1000-russkoe.png",
-		"name": "Viju TV1000 Русское",
+		"name": "viju TV1000 Русское",
 		"group": "films"
 	},
 	{
@@ -83174,7 +83174,7 @@
 		"basealias": "vijuserial",
 		"country": "ru",
 		"logo_url": "/logos/vip-serial.png",
-		"name": "Viju+ Serial",
+		"name": "viju+ Serial",
 		"group": "films"
 	},
 	{
