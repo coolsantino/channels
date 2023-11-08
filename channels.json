@@ -1702,11 +1702,11 @@
 	},
 	{
 		"_id": 194,
-		"aliases": "|explorer|viasatexplorer|viasatexploreроссия|",
-		"basealias": "viasatexplore",
+		"aliases": "|explorer|viasatexplorer|viasatexploreроссия|viasatexplore|",
+		"basealias": "vijuexplore",
 		"country": "ru",
 		"logo_url": "/logos/viasat-explore.png",
-		"name": "Viasat Explore",
+		"name": "viju Explore",
 		"group": "knowledge"
 	},
 	{
@@ -1720,20 +1720,20 @@
 	},
 	{
 		"_id": 196,
-		"aliases": "",
-		"basealias": "viasathistory",
+		"aliases": "|viasathistory|",
+		"basealias": "vijuhistory",
 		"country": "ru",
 		"logo_url": "/logos/viasat-history.png",
-		"name": "Viasat History",
+		"name": "viju History",
 		"group": "knowledge"
 	},
 	{
 		"_id": 197,
-		"aliases": "|viasatnature|viasatnatureru|",
-		"basealias": "viasatnatureроссия",
+		"aliases": "|viasatnature|viasatnatureru|viasatnatureроссия|",
+		"basealias": "vijunature",
 		"country": "ru",
 		"logo_url": "/logos/viasat-nature.png",
-		"name": "Viasat Nature Россия",
+		"name": "viju Nature",
 		"group": "knowledge"
 	},
 	{
