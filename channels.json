@@ -92770,5 +92770,14 @@
 		"logo_url": "/logos/bcu-kids-4k.png",
 		"name": "BCU Kids 4K",
 		"group": "films"
+	},
+	{
+		"_id": 100810,
+		"aliases": "",
+		"basealias": "cinemaclassictv",
+		"country": "ru",
+		"logo_url": "/logos/cinema-classic-tv.png",
+		"name": "Cinema Classic TV",
+		"group": "films"
 	}
 ]
