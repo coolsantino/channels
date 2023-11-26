@@ -92779,5 +92779,14 @@
 		"logo_url": "/logos/cinema-classic-tv.png",
 		"name": "Cinema Classic TV",
 		"group": "films"
+	},
+	{
+		"_id": 100811,
+		"aliases": "|кинозалвидеосалонvhs|",
+		"basealias": "vhsвидеосалон",
+		"country": "ru",
+		"logo_url": "/logos/vhs-videosalon.png",
+		"name": "VHS Видеосалон",
+		"group": "films"
 	}
 ]
