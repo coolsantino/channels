@@ -92788,5 +92788,23 @@
 		"logo_url": "/logos/vhs-videosalon.png",
 		"name": "VHS Видеосалон",
 		"group": "films"
+	},
+	{
+		"_id": 100812,
+		"aliases": "",
+		"basealias": "кино1international",
+		"country": "ru",
+		"logo_url": "/logos/kino-1-International.png",
+		"name": "Кино 1 International",
+		"group": "films"
+	},
+	{
+		"_id": 100813,
+		"aliases": "",
+		"basealias": "кинозал17vhs90s",
+		"country": "ru",
+		"logo_url": "",
+		"name": "Кинозал 17 (VHS 90s)",
+		"group": "films"
 	}
 ]
