@@ -80146,11 +80146,11 @@
 	},
 	{
 		"_id": 54789,
-		"aliases": "|tv1000globalkinohd|tv1000kino|tv1000kinohd|tv1000kinosd|tv1000kinobaltic|viasattv1000kino|viasattv1000kinohd|",
-		"basealias": "tv1000globalkino",
+		"aliases": "|tv1000kino|tv1000kinohd|tv1000kinosd|tv1000kinobaltic|viasattv1000kino|viasattv1000kinohd|",
+		"basealias": "tv1000globalkinohd",
 		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/xc55nhfxs639c29/globkino.png",
-		"name": "TV1000 Global Kino",
+		"name": "TV1000 Global Kino HD",
 		"group": "films"
 	},
 	{
