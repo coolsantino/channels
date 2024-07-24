@@ -92806,5 +92806,14 @@
 		"logo_url": "",
 		"name": "Кинозал 17 (VHS 90s)",
 		"group": "films"
+	},
+	{
+		"_id": 100814,
+		"aliases": "",
+		"basealias": "vhsка",
+		"country": "ru",
+		"logo_url": "/logos/vhsка.png",
+		"name": "VHS-ка",
+		"group": "films"
 	}
 ]
