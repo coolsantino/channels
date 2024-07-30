@@ -92815,5 +92815,41 @@
 		"logo_url": "/logos/vhska.png",
 		"name": "VHS-ка",
 		"group": "films"
+	},
+	{
+		"_id": 100815,
+		"aliases": "",
+		"basealias": "ситиэдемкиномистика",
+		"country": "ru",
+		"logo_url": "",
+		"name": "Сити Эдем - КиноМистика",
+		"group": "films"
+	},
+	{
+		"_id": 100816,
+		"aliases": "",
+		"basealias": "ситиэдемкинодетектив",
+		"country": "ru",
+		"logo_url": "",
+		"name": "Сити Эдем - КиноДетектив",
+		"group": "films"
+	},
+	{
+		"_id": 100817,
+		"aliases": "",
+		"basealias": "ситиэдемкинокомедия",
+		"country": "ru",
+		"logo_url": "",
+		"name": "Сити Эдем - КиноКомедия",
+		"group": "films"
+	},
+	{
+		"_id": 100818,
+		"aliases": "",
+		"basealias": "ситиэдемкиноэкшен",
+		"country": "ru",
+		"logo_url": "",
+		"name": "Сити Эдем - КиноЭкшен",
+		"group": "films"
 	}
 ]
