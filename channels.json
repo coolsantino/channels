@@ -92851,5 +92851,41 @@
 		"logo_url": "",
 		"name": "Сити Эдем - КиноЭкшен",
 		"group": "films"
+	},
+	{
+		"_id": 100819,
+		"aliases": "vhs",
+		"basealias": "видеокассета",
+		"country": "ru",
+		"logo_url": "",
+		"name": "Видеокассета",
+		"group": "films"
+	},
+	{
+		"_id": 100820,
+		"aliases": "",
+		"basealias": "cinemanpremiumhd",
+		"country": "ru",
+		"logo_url": "",
+		"name": "Cineman Premium HD",
+		"group": "films"
+	},
+	{
+		"_id": 100821,
+		"aliases": "",
+		"basealias": "cinemanмелодрамаhd",
+		"country": "ru",
+		"logo_url": "",
+		"name": "Cineman Мелодрама HD",
+		"group": "films"
+	},
+	{
+		"_id": 100822,
+		"aliases": "",
+		"basealias": "cinemanментовскиевойныhd",
+		"country": "ru",
+		"logo_url": "",
+		"name": "Cineman Ментовские войны HD",
+		"group": "films"
 	}
 ]
