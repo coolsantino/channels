@@ -92854,8 +92854,8 @@
 	},
 	{
 		"_id": 100819,
-		"aliases": "vhs",
-		"basealias": "видеокассета",
+		"aliases": "|видеокассета|",
+		"basealias": "vhs",
 		"country": "ru",
 		"logo_url": "",
 		"name": "Видеокассета",
