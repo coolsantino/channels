@@ -92887,5 +92887,14 @@
 		"logo_url": "",
 		"name": "Cineman Ментовские войны HD",
 		"group": "films"
+	},
+	{
+		"_id": 100823,
+		"aliases": "",
+		"basealias": "кошмар",
+		"country": "ru",
+		"logo_url": "/logos/koshmar-hd.png",
+		"name": "Кошмар HD",
+		"group": "films"
 	}
 ]
