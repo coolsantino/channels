@@ -92896,5 +92896,23 @@
 		"logo_url": "/logos/koshmar-hd.png",
 		"name": "Кошмар HD",
 		"group": "films"
+	},
+	{
+		"_id": 100824,
+		"aliases": "",
+		"basealias": "ситиэдемкиномистика",
+		"country": "ru",
+		"logo_url": "",
+		"name": "Сити Эдем - КиноМистика",
+		"group": "films"
+	},
+	{
+		"_id": 100825,
+		"aliases": "",
+		"basealias": "ситиэдемтв",
+		"country": "ru",
+		"logo_url": "",
+		"name": "Сити Эдем ТВ",
+		"group": "films"
 	}
 ]
